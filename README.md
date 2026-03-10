@@ -12,9 +12,6 @@ Link ditaruh di bawah ini
 
 ```
 
-## Deskripsi Program
-Tuliskan deskripsi singkat program yang dibuat.
+## Penjelasan Program
 
-## Cara Menjalankan Program
-
-### Server
+## Screenshot Hasil
